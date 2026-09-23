@@ -220,7 +220,7 @@ special_tokens = {
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone <https://www.github.com/xmahfujur/word-tokenizer.git>
 cd word-tokenizer
 ```
 
@@ -403,7 +403,7 @@ Python's standard-library modules such as `re` and `pathlib` do not need to be i
 Recommended Python version:
 
 ```text
-Python 3.10+
+Python 3.12+
 ```
 
 Check your Python version:
