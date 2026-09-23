@@ -220,7 +220,7 @@ special_tokens = {
 ### 1. Clone the repository
 
 ```bash
-git clone <https://www.github.com/xmahfujur/word-tokenizer.git>
+git clone https://www.github.com/xmahfujur/word-tokenizer.git
 cd word-tokenizer
 ```
 
